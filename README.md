@@ -1,4 +1,4 @@
-# inclusivetech-hub
+# InclusiveTech Hub
 # About The Project
 InclusiveTech Hub is a comprehensive platform designed to empower women and underrepresented groups in the technology industry. By providing access to quality education, expert mentorship, and a supportive community, we aim to create an inclusive ecosystem where everyone can thrive.
 # Problem Statement
