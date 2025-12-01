@@ -37,7 +37,20 @@ function initializeFirebase() {
 const AppState = {
   currentUser: null,
   darkMode: false,
-  users: [],
+  users: [
+  {
+    id: 1,
+    name: 'Test Admin',
+    email: 'admin@test.com',
+    password: '0b14d501a594442a01c6859541bcb3e8164d183d32937b851835442f69d5c94e', // 'password123' hashed
+    role: 'admin',
+    bio: 'Platform Administrator',
+    avatar: null,
+    theme: 'light',
+    lastProfileEdit: null,
+    createdAt: '2024-01-01T00:00:00.000Z'
+  }
+],
   courses: [
     {
       id: 1,
