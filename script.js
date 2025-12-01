@@ -517,7 +517,7 @@ function renderLoginPage() {
           <p class="text-gray-600 dark:text-gray-400">Don't have an account? <button onclick="switchToSignup()" class="text-purple-600 dark:text-purple-400 hover:underline font-medium">Sign Up</button></p>
         </div>
         <div class="mt-6 pt-6 border-t border-gray-200 dark:border-gray-700">
-          <p class="text-xs text-gray-500 dark:text-gray-400 text-center mb-2">Demo Accounts:</p>
+          <p class="text-xs text-gray-500 dark:text-gray-400 text-center mb-2">Demo Account:</p>
           <div class="text-xs text-gray-600 dark:text-gray-400 space-y-1">
             <p><strong>Admin:</strong> admin@test.com / password123</p>
             <p><strong>Student:</strong> student@test.com / password123</p>
