@@ -519,6 +519,7 @@ function renderLoginPage() {
         <div class="mt-6 pt-6 border-t border-gray-200 dark:border-gray-700">
           <p class="text-xs text-gray-500 dark:text-gray-400 text-center mb-2">Demo Accounts:</p>
           <div class="text-xs text-gray-600 dark:text-gray-400 space-y-1">
+            <p><strong>Admin:</strong> admin@test.com / password123</p>
             <p><strong>Student:</strong> student@test.com / password123</p>
             <p><strong>Mentor:</strong> mentor@test.com / password123</p>
           </div>
