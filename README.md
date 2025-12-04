@@ -1,6 +1,8 @@
 # InclusiveTech Hub
 # About The Project
 InclusiveTech Hub is a comprehensive platform designed to empower women and underrepresented groups in the technology industry. By providing access to quality education, expert mentorship, and a supportive community, we aim to create an inclusive ecosystem where everyone can thrive.
+
+The platform is live [https://angeumutoni.github.io/inclusivetech-hub/](url)
 # Problem Statement
 Despite growing awareness, women remain significantly underrepresented in technology fields. Access to mentorship, quality education, and supportive communities remains limited, particularly in developing regions.
 Our Solution
